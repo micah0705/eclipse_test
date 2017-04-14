@@ -5,5 +5,6 @@ public class test
 	{
 		System.out.println("±èÁö¼·");
 		System.out.println("Å¬·Ğ ±èÁö¼·");
+		System.out.println("°ï¾à Å¬·Ğ ÀÎ°£");
 	}
 }
