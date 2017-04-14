@@ -7,5 +7,6 @@ public class test
 		System.out.println("Å¬·Ğ ±èÁö¼·");
 		System.out.println("°ï¾à Å¬·Ğ ÀÎ°£");
 		System.out.println("º¹Á¦");
+		System.out.println("Â¯±¸");
 	}
 }
